@@ -24,7 +24,7 @@ int main() {
                          width_rectangle * width_rectangle);
     
     cout << "Диагональ1: " << diagonal << endl;
-    cout << "Площадь: " << area << endl;
+    cout << "Площадь1: " << area << endl;
     cout << "Периметр: " << perimeter << endl;
     
     return 0;
