@@ -23,7 +23,7 @@ int main() {
     float diagonal = sqrt(length_rectangle * length_rectangle + 
                          width_rectangle * width_rectangle);
     
-    cout << "Диагональ: " << diagonal << endl;
+    cout << "Диагональ1: " << diagonal << endl;
     cout << "Площадь: " << area << endl;
     cout << "Периметр: " << perimeter << endl;
     
